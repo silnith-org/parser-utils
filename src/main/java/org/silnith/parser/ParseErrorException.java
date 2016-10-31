@@ -1,4 +1,4 @@
-package org.silnith.browser.organic.parser;
+package org.silnith.parser;
 
 public class ParseErrorException extends RuntimeException {
     
