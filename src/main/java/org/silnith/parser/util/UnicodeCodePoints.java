@@ -1,4 +1,4 @@
-package org.silnith.browser.organic.parser.util;
+package org.silnith.parser.util;
 
 /**
  * Why did I create these obvious constants? Surely the code is just as readable
