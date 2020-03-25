@@ -95,7 +95,7 @@ public final class UnicodeCodePoints {
     public static final char PERCENTAGE_SIGN = '%';
     
     /**
-     * U+0026 AMPERSAND (&)
+     * U+0026 AMPERSAND (&amp;)
      */
     public static final char AMPERSAND = '&';
     
@@ -165,7 +165,7 @@ public final class UnicodeCodePoints {
     public static final char SEMICOLON = ';';
     
     /**
-     * U+003C LESS-THAN SIGN (<)
+     * U+003C LESS-THAN SIGN (&lt;)
      */
     public static final char LESS_THAN_SIGN = '<';
     
@@ -175,7 +175,7 @@ public final class UnicodeCodePoints {
     public static final char EQUALS_SIGN = '=';
     
     /**
-     * U+003E GREATER-THAN SIGN (>)
+     * U+003E GREATER-THAN SIGN (&gt;)
      */
     public static final char GREATER_THAN_SIGN = '>';
     
